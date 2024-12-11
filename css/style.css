@@ -1,0 +1,410 @@
+/*********content start******/
+*{
+    margin: 10px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+.content i{
+    color: #151515;;
+    float: left;
+    font-size: 24px;
+    margin: 0px 0px 0px 0px;
+    padding: 10px;
+
+}
+.content h3 {
+    margin: 20px 0px 0px 0px;
+}
+.content h3{
+    color: gray;
+    font-size: 15px;
+    margin: 2px 0px 0px 0px;
+    font-family: "Playball", cursive;
+}
+.content h2{
+    color: gray;
+    font-family: "Playball", cursive;
+    font-size: 15px;
+    margin: 0px 0px 0px 0px;  
+}
+.content button{
+    border: gray;
+    background-color:unset;
+    font-size: 16px;
+    padding: 10px 35px 10px 35px;
+    color: #000000;
+    margin: 20px 0px 0px 0px;
+    text-transform: uppercase;
+    border: 1px solid #000000;
+    font-family: "Playball", cursive;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 10px 10px 10px 10px;
+}
+.content  button:hover{
+    background-color:#007bff;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+}
+
+/*********content end******/
+/*********fire start ******/
+body{
+    font-family: "Playball", cursive;
+   
+}
+.fire{
+    margin: 20px 0px 0px 0px;
+
+}
+*{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+ul{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+ul li{
+    margin: 20px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+.navbar-expand-lg .navbar-nav{
+    position: relative;
+    right: 10%;
+}
+.navbar-expand-lg .navbar-nav .nav-item{
+    margin: 0px 0px 0px 40px;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-family: "Playball", cursive;
+    
+}
+.navbar-light .navbar-nav .nav-link:hover{
+     color: #74757f!important;
+}
+
+/*********fire end ******/
+/*********find start ******/
+*{
+    margin: 0px 0px 0px 0px;
+}
+.find img{
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+}
+ .word{
+    margin-bottom: 300px;
+    margin-right: 500px;
+   
+}
+.word p{
+    font-size: 16px;
+    text-transform: capitalize;
+    font-family: "Playball", cursive;
+}
+.word h1{
+    font-size: 25px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: bold;
+    margin: 10px;
+    font-family: "Playball", cursive;
+}
+.word h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    margin: 10px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Playball", cursive;
+}
+.word button{
+    border: unset;
+    background-color:#007bff;
+    font-size: 16px;
+    color: #ffffff;
+    margin: 20px 0px 0px 0px;
+    text-transform: uppercase;
+    border: 1px solid #ffffff;
+    font-family: "Playball", cursive;
+    border-radius: 0px;
+    padding: 10px;
+}
+.word  button:hover{
+    background-color: #74757f;
+    border: 1px solid unset;
+    color: #ffffff;
+}
+
+
+ 
+
+/*********find end ******/
+/*********contact start ******/
+.contact h1{
+    font-family: "Playball", cursive;
+    color:#151515;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.contact{
+    margin: 30px;
+}
+.contact img{
+    width: 100%;
+    height: 60%;
+    margin: 30px;
+}
+.contact h2{
+    font-family: "Playball", cursive;
+    color:#151515;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.contact  h2:hover{
+    color: #007bff;
+}
+.contact span{
+    color: blue;
+    font-size: 25px;
+    font-family: "Playball", cursive;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.contact button{
+    border: unset;
+    background-color:#007bff;
+    font-size: 16px;
+    color: #ffffff;
+    margin: 20px 0px 0px 0px;
+    text-transform: uppercase;
+    border: 1px solid #000000;
+    font-family: "Playball", cursive;
+    border-radius: 10px;
+    padding: 10px;
+}
+.contact  button:hover{
+    background-color: #74757f;
+    border: 1px solid unset;
+    color: #ffffff;
+}
+.contact img:hover{
+    opacity: 0.7;
+}
+/*********contact end ******/
+/*********our team start ******/
+.house img{
+    margin: 20px;
+    padding: 10px;
+    width: 80%;
+    height: 60%;
+}
+.house .ourteam{
+    margin: 60px;
+}
+
+.house h1{
+    font-family: "Playball", cursive;
+    color:#151515;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+.house span{
+    color: blue;
+    text-align: center;
+    font-size: 25px;
+    font-family: "Playball", cursive;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.house .ourteam h2{
+    font-family: "Playball", cursive;
+    color:gray;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.house .ourteam i{
+    font-family: "Playball", cursive;
+    color:#151515;
+    font-size: 15px;
+    font-weight: bold;
+}
+.house .ourteam h3{
+    font-family: "Playball", cursive;
+    color:#151515;
+    font-size: 16px;
+    font-weight: bold;
+}
+.house .ourteam h3:hover{
+    color: #007bff;
+
+}
+.house .ourteam h6{
+    font-family: "Playball", cursive;
+    color:gray;
+    font-size: 18px;
+}
+.house .ourteam p{
+    font-family: "Playball", cursive;
+    color:gray;
+    font-size: 16px;
+}
+/*********our team end ******/
+/*********about start ******/
+.aboutus{
+    margin: 60px;
+}
+.aboutus h1{
+    color: #151515;
+    font-family: "Playball", cursive;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+.aboutus span{
+    color: rgb(0, 102, 255);
+    font-family: "Playball", cursive;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+.aboutus img{
+    margin: 40px 0px 0px 0px;
+}
+.aboutus img:hover{
+    opacity: 0.7;
+}
+.aboutus h5{
+    font-family: "Playball", cursive;
+    margin: 20px;
+    font-weight: bold;
+}
+.aboutus  h3{
+    font-family: "Playball", cursive;
+    color: blue;
+    font-size: 20px;
+    word-spacing: 14px;
+    font-weight: bold;
+}
+.aboutus  h3:hover{
+    color: #007bff;
+}
+.aboutus .box1 span{
+    color: #151515;
+    font-size: 20px;
+    font-family: "Playball", cursive;
+    font-weight: bold;
+
+}
+.aboutus h5:hover{
+    font-family: "Playball", cursive;
+    color: #007bff;
+}
+.aboutus .box1 p{
+    font-family: "Playball", cursive;
+    color: #74757f;
+    font-size: 20px;
+    
+}
+.aboutus {
+    font-family: "Playball", cursive;
+}
+.aboutus button{
+    border: unset;
+    background-color:#007bff;
+    font-size: 16px;
+    color: #ffffff;
+    margin: 20px 0px 0px 0px;
+    text-transform: uppercase;
+    border: 1px solid #000000;
+    font-family: "Playball", cursive;
+    border-radius: 10px;
+    padding: 10px;
+}
+.aboutus  button:hover{
+    background-color: #74757f;
+    border: 1px solid unset;
+    color: #ffffff;
+}
+/*********about end ******/
+/*********text start ******/
+.team h1{
+    font-size: 20px;
+    font-family: "Playball", cursive;
+    color: #000000;
+    margin: 10px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.team p{
+    font-size: 16px;
+    color: gray;
+}
+.team i{
+    font-size: 40px;
+    color: gray;
+    float: left;
+    margin: 10px;
+    padding: 20px;
+
+}
+/*********text end ******/
+/*********footer start ******/
+.event{
+    background-color: #151515e2;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.event h1{
+    font-family: "Playball", cursive;
+    margin: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+}
+.event  p{
+    font-family: "Playball", cursive;
+    color: #74757f;
+    font-size: 16px;
+    text-align: center;
+    padding: 10px;
+}
+.event h2{
+    font-family: "Playball", cursive;
+    color: #ffffff9f;
+    font-size: 14px;
+    text-align: center;
+    margin: 20px;
+    text-transform: capitalize;
+}
+.event h2:hover{
+    color: azure;
+}
+.event img{
+    width: 100px;
+    height: 80px;
+    gap: 50px;
+    padding: 4px;
+    font-size: 20px;
+   
+}
+.event .left p {
+    color: #ffffff;
+    font-size: 20px;
+    padding: 0px;
+}
+.event  h4{
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px;
+    align-items: end;
+    display: inline-block;
+}
+.event  h4 i:hover{
+    color: blue;
+}
+/*********footer end ******/
